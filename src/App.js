@@ -1,22 +1,20 @@
-import './App.css';
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Cover from "./components/Cover";
+import CardsSection from "./components/CardsSection";
+import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer";
+import ReservationForm from "./components/ReservationForm";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src='#' className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Cover />
+      <ReservationForm />
+      <CardsSection />
+      <Testimonials />
+      <Footer />
     </div>
   );
 }
