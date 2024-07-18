@@ -32,7 +32,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Desktop screenshot:
-![Screenshot](https://raw.githubusercontent.com/mykesoft/meta-front-end-react-project-capstone/main/public/screen_desktop.png.png?raw=true "Title")
+![Screenshot](https://raw.githubusercontent.com/mykesoft/meta-front-end-react-project-capstone/main/public/screen_desktop.png "Title")
 
 ## Mobile screenshot:
-![Screenshot](https://raw.githubusercontent.com/mykesoft/meta-front-end-react-project-capstone/main/public/screen_mobile.png.png?raw=true "Title")
+![Screenshot](https://raw.githubusercontent.com/mykesoft/meta-front-end-react-project-capstone/main/public/screen_mobile.png "Title")
